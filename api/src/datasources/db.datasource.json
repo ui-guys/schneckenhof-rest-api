@@ -1,0 +1,9 @@
+{
+  "name": "db",
+  "connector": "cloudant",
+  "url": "https://6aaaaac4-841c-4459-8544-738e9574cd65-bluemix:a57fd54a2c02b96540fce5c19c3c8add76f93ba72d4c18024e1fbebff949b670@6aaaaac4-841c-4459-8544-738e9574cd65-bluemix.cloudantnosqldb.appdomain.cloud",
+  "database": "schneckenhof",
+  "username": "6aaaaac4-841c-4459-8544-738e9574cd65-bluemix",
+  "password": "a57fd54a2c02b96540fce5c19c3c8add76f93ba72d4c18024e1fbebff949b670",
+  "modelIndex": ""
+}
